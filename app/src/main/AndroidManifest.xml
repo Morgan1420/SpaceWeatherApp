@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SpaceWeatherApp">
         <activity
+            android:name=".NavBarActivity"
+            android:exported="false"
+            android:label="@string/title_activity_nav_bar"
+            android:theme="@style/Theme.SpaceWeatherApp.NoActionBar" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
