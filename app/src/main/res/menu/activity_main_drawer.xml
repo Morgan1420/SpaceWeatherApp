@@ -16,5 +16,9 @@
             android:id="@+id/nav_slideshow"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="News" />
+        <item
+            android:id="@+id/nav_AboutApp"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="About this App" />
     </group>
 </menu>
