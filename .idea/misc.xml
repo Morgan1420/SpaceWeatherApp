@@ -3,6 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/gerar/AndroidStudioProjects/SpaceWeatherApp2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/gerar/AndroidStudioProjects/SpaceWeatherApp2/app/src/main/res/layout/activity_nav_bar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gerar/AndroidStudioProjects/SpaceWeatherApp2/app/src/main/res/layout/app_bar_nav_bar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gerar/AndroidStudioProjects/SpaceWeatherApp2/app/src/main/res/layout/content_nav_bar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gerar/AndroidStudioProjects/SpaceWeatherApp2/app/src/main/res/layout/fragment_gallery.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gerar/AndroidStudioProjects/SpaceWeatherApp2/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gerar/AndroidStudioProjects/SpaceWeatherApp2/app/src/main/res/layout/fragment_slideshow.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gerar/AndroidStudioProjects/SpaceWeatherApp2/app/src/main/res/layout/nav_header_nav_bar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gerar/AndroidStudioProjects/SpaceWeatherApp2/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gerar/AndroidStudioProjects/SpaceWeatherApp2/app/src/main/res/menu/nav_bar.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/janmo/OneDrive/Documents/Other/Android_studio/SpaceWeatherApp/app/src/main/res/layout/activity_main.xml" value="0.22146739130434784" />
       </map>
     </option>
