@@ -1,5 +1,9 @@
 package com.example.spaceweatherapp.ui.slideshow
 
+import android.app.Activity
+import android.app.SearchManager
+import android.content.Intent
+import android.net.Uri
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -17,6 +21,8 @@ class SlideshowFragment : Fragment() {
     // onDestroyView.
     private val binding get() = _binding!!
 
+
+
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
@@ -32,11 +38,17 @@ class SlideshowFragment : Fragment() {
         slideshowViewModel.text.observe(viewLifecycleOwner) {
             textView.text = it
         }
+
+
+
         return root
     }
-
     override fun onDestroyView() {
         super.onDestroyView()
         _binding = null
+
     }
 }
+
+
+

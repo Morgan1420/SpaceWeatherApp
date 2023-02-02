@@ -1,10 +1,13 @@
 package com.example.spaceweatherapp
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.Button
+import android.os.Handler
+import android.view.View
+import android.view.animation.Animation
+import android.view.animation.Transformation
 import android.widget.TextView
+import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -13,17 +16,11 @@ class MainActivity : AppCompatActivity() {
 
         val playButton = findViewById<TextView>(R.id.Inicio)
         playButton.setOnClickListener{
+
             val intent = Intent(this@MainActivity, NavBarActivity::class.java)
             startActivity(intent)
+
         }
-
-
-
-
-
-
-
-
 
     }
 
